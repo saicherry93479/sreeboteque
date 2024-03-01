@@ -44,7 +44,7 @@ const ProductList = () => {
   }, [data]);
 
   useEffect(() => {
-    if (categoryFromHome.category.length > 0) {
+    if (categoryFromHome?.category.length > 0) {
       let cats = getCategoriesValues();
       console.log("in from home ", cats, " value ", categoryFromHome.category);
 
