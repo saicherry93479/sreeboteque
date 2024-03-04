@@ -20,7 +20,7 @@ const Home = () => {
           </p>
           <a
             href="/productlist"
-            className="bg-[#E5611A] w-fit break-keep  mx-auto lg:ml-0 px-8 cursor-pointer py-2 !text-sm md:text-md text-white mt-3 rounded-full "
+            className="bg-[#E5611A] w-fit  mx-auto lg:ml-0 px-8 cursor-pointer py-2 !text-[8px] md:text-md text-white mt-3 rounded-full "
           >
             Shop Now
           </a>
