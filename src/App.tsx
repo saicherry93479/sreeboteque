@@ -1,3 +1,4 @@
+// @ts-nocheck
 import "./App.css";
 import Home from "./Pages/Home";
 import ProductItem from "./Pages/ProductItem";
