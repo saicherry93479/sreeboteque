@@ -58,10 +58,11 @@ const ContactUs = () => {
          
           
           </form> */}
-          <div className="bg-[#25d366] my-[50px] rounded-full  text-sm md:text-[16px] py-3 flex justify-center items-center gap-4  text-white cursor-pointer">
+          <a className="bg-[#25d366] my-[50px] rounded-full  text-sm md:text-[16px] py-3 flex justify-center items-center gap-4  text-white cursor-pointer"         target="_blank"
+        href="https://api.whatsapp.com/send?phone=9515235212&text=Hello! I'm interested in products. Can you please provide me with more information?.">
             contact us on
             <i className="fa fa-whatsapp text-[20px] lg:text-[25px] text-white " />
-          </div>
+          </a>
         </div>
       </div>
     </div>
